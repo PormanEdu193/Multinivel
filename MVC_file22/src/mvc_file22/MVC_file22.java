@@ -1,12 +1,14 @@
 
 package mvc_file22;
 
-import Controlador.HerenciaControlador;
+import Controlador.ControladorOpe;
+
 
 public class MVC_file22 {
 
+   
     public static void main(String[] args) {
-        HerenciaControlador controlador = new HerenciaControlador();
+        ControladorOpe controlador = new ControladorOpe();
     }
     
 }
